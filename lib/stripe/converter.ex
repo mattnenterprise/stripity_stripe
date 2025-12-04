@@ -49,7 +49,6 @@ defmodule Stripe.Converter do
     list
     login_link
     mandate
-    oauth
     order
     order_item
     order_return
